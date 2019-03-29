@@ -42,7 +42,10 @@ The code should run with basic matlab functions and doesn't require any sophisti
 
 ### Pre-trained model
 
-The pre-trained model and results for each specific case of the simulation are provide in 'model' and 'results_icaps' directories respectively. In folder 'metric', you will find various scripts to reproduce all tables and figures reported in the paper. 
+The pre-trained model and results for each specific case of the simulation are provide in 'model' and 'results_icaps' directories respectively. 
+
+### Tables and Figures
+In folder 'metric', you will find various scripts to reproduce all tables and figures reported in the paper. Use [MCT evaluation kit](http://mct.idealtest.org/Datasets.html) to generate MCTA values from the results file. Result files are kept in ```results_icaps``` folder for every case. 
 
 
 ### Training
@@ -65,7 +68,7 @@ To reproduce figure 4 of the paper. Edit the scripts in the train folder and unc
 
 ## Remarks
 
-The related method are multi-camera multi-target and our method is multi-camera single target tracking. For fair comparison, we have run multiple parallel iterations one for each target of the test set.
+The related method are multi-camera multi-target and our method is multi-camera single target tracking. For fair comparison, we have run multiple parallel iterations of our method one for each target of the test set to make it multi-camera multi-target approach.
 
 
 ## Extension and improvement in results
