@@ -33,7 +33,7 @@ Download the dataset from the [[official website](http://mct.idealtest.org/Datas
 
 ## Running the tracker
 
-Edit the variable ```task``` in the main file of a particular sub-dataset (```task=2``` is for testing with ground truth re-id). To simulate errors in re-identification, change ```tasl``` and edit ```opts.fpath``` in the main file to point the location of the ground-truth file.
+Edit the variable ```task``` in the main file of a particular sub-dataset (```task=2``` is for testing with ground truth re-id). To simulate errors in re-identification, change ```task``` and edit ```opts.fpath``` in the main file to point the location of the ground-truth file.
 
 
 ### Dependencies
@@ -90,12 +90,4 @@ If this code helps your research, please cite the following work which made it p
 ## License
 
 This code is licensed under [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Some external dependencies have their own license.
-
-
-
-
-
-
-
-
 
