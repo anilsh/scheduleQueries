@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html><head>
+<style>
+body {  font-size: 12px;  margin: 20px; }
+th {  background-color: #eeeeee; text-align: left; } td {   min-width: 140px; } td .failures {  font-weight: bold;  display: block; } td .variance {  font-size: 80%;  font-weight: normal; } td .length {  font-weight: bold;  display: block; } td .count {  float: right; } td .count:before {  content: '('; } td .count:after {  content: ')'; }
+</style>
+<title>Results for team {{tracker}}</title>
+</head><body>
+<h1>Results for team <em>{{tracker}}</em></h1>
+<p>Generated on {{timestamp}}</p>
+
+<p><h3>Parameters Illustration:</h3></p>
+<p>g : the number of ground truths for time t.</p>
+<p>r : the number of hypothesis for time t. </p>
+<p>m : the number of misses for time t.</p>
+<p>fp : the number of false positive for time t.</p>
+<p>mme_s: the number of mismatches for time t in a single camera.</p>
+<p>mme_c: the number of mismatches for time t across different cameras.</p>
+<p>tp_s: the number of true positive for time t in a single camera.</p>
+<p>tp_c: the number of true positive for time t across different cameras. </p>
+
+{{body}}
+
+</body>
+</html>
