@@ -4,7 +4,7 @@
 
 _Anil Sharma, Saket Anand, Sanjit K. Kaul_
 
-[[Paper](https://www.iiitd.edu.in/~anils/)] [[Video](https://www.youtube.com/watch?v=Yn0AVk7wEyI&feature=youtu.be)] [[BibTeX](https://github.com/anilsh/scheduleQueries/blob/master/sharma_icaps2019.bib)]
+[[Paper](https://www.iiitd.edu.in/~anils/)] [[Poster](https://github.com/anilsh/scheduleQueries/blob/master/poster_icaps_a0_landscape)] [[Video](https://www.youtube.com/watch?v=Yn0AVk7wEyI&feature=youtu.be)] [[BibTeX](https://github.com/anilsh/scheduleQueries/blob/master/sharma_icaps2019.bib)]
 
 ---
 Target Tracking in a Camera Networks is the problem of determining the location of the target at all times as the target moves in different camera field of views. The input is the video sequence  of all cameras and the initial location of the target and the output should be the trajectory of the target whose each instance contain (c,x,y), where c is the camera index and (x,y) is the spatial location (or bounding box) in the camera c. 
@@ -18,8 +18,6 @@ In this repository, we provide MATLAB code to run and evaluate our method. This 
 The camera selection results are shown in the following video on NLPR Dataset3:
 ![camera selection performance on NLPR dataset-3](https://github.com/anilsh/scheduleQueries/blob/master/video_gif_db3_T2_noGT.gif)
 
-The results are shown below:
-![Poster](https://github.com/anilsh/scheduleQueries/blob/master/poster_image.PNG)
 
 ---
 
