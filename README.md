@@ -16,7 +16,10 @@ In brief, our method is also two-step (but can be run online). First, it selects
 In this repository, we provide MATLAB code to run and evaluate our method. This code has been written over the past years as part of my PhD research. The MCT literature proposed all vision based method but we didn't cater to the vision challenges (particularly in this paper).
 
 The camera selection results are shown in the following video on NLPR Dataset3:
-![camera selection performance on NLPR dataset-3](http://url/to/img.png)
+![camera selection performance on NLPR dataset-3](https://github.com/anilsh/scheduleQueries/blob/master/video_gif_db3_T2_noGT.gif)
+
+The results are shown below:
+![Poster](https://github.com/anilsh/scheduleQueries/blob/master/poster_icaps_a0_landscape.pdf)
 
 ---
 
