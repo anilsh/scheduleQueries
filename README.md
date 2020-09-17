@@ -4,7 +4,7 @@
 
 _Anil Sharma, Saket Anand, Sanjit K. Kaul_
 
-[[Paper](https://www.iiitd.edu.in/~anils/)] [[Video](https://www.youtube.com/watch?v=Yn0AVk7wEyI&feature=youtu.be)] [[BibTeX](#Citing)]
+[[Paper](https://www.iiitd.edu.in/~anils/)] [[Video](https://www.youtube.com/watch?v=Yn0AVk7wEyI&feature=youtu.be)] [[BibTeX](https://github.com/anilsh/scheduleQueries/blob/master/sharma_icaps2019.bib)]
 
 ---
 Target Tracking in a Camera Networks is the problem of determining the location of the target at all times as the target moves in different camera field of views. The input is the video sequence  of all cameras and the initial location of the target and the output should be the trajectory of the target whose each instance contain (c,x,y), where c is the camera index and (x,y) is the spatial location (or bounding box) in the camera c. 
