@@ -19,12 +19,8 @@ The camera selection results are shown in the following video on NLPR Dataset3:
 ![camera selection performance on NLPR dataset-3](https://github.com/anilsh/scheduleQueries/blob/master/video_gif_db3_T2_noGT.gif)
 
 The results are shown below:
-![Poster](https://github.com/anilsh/scheduleQueries/blob/master/poster_icaps_a0_landscape.pdf)
-<object data="https://github.com/anilsh/scheduleQueries/blob/master/poster_icaps_a0_landscape.pdf" type="application/pdf" width="700px" height="700px">
-    <embed src="https://github.com/anilsh/scheduleQueries/blob/master/poster_icaps_a0_landscape.pdf">
-        
-    </embed>
-</object>
+![Poster](https://github.com/anilsh/scheduleQueries/blob/master/poster_image.PNG)
+
 ---
 
 ## Code
