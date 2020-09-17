@@ -21,7 +21,7 @@ In this repository, we provide MATLAB code to run and evaluate our method. This 
 
 The code is organized as follows:
 1. ```main_q_dbx_icaps.m``` is the main file to call training and testing function for a sub-dataset x. Please note that sub-dataset-1 and 2 share same network topology and hence only one model is trained for both. 
-2. All folders names are self-explanatory and you don't need to edit any of the file inside to reproduce the results.
+2. All folder names are self-explanatory and you don't need to edit any of the file inside any folder to reproduce the results.
 
 ## Downloading the data
 
