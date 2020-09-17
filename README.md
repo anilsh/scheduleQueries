@@ -1,6 +1,6 @@
 
 # ScheduleQueries
-** Matlab implementation of ICAPS 2019 paper titled Reinforcement Learning based Querying in Camera Networks for Efficient Target Tracking
+** Matlab implementation of ICAPS 2019 paper titled 'Reinforcement Learning based Querying in Camera Networks for Efficient Target Tracking'
 
 _Anil Sharma, Saket Anand, Sanjit K. Kaul_
 
